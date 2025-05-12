@@ -1,4 +1,4 @@
-package com.example.application3;
+package com.avm.application3;
 
 import android.os.Bundle;
 import android.view.View;
